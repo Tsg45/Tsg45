@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm [ชื่อเล่น] 👋</h1>
-<p align="center">[แนะนำตัวสั้น ๆ เช่น นักเรียนที่กำลังเรียนเขียนเว็บ]</p>
+<h1 align="center">Hi, I'm Natee 👋</h1>
+<p align="center">Hi, I’m Natee! I’m a third-year student studying IoT System and Information Engineering at KMITL. I like building IoT systems and web apps, and I enjoy experimenting with machine learning.</p>
 
 ---
 
