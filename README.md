@@ -21,7 +21,7 @@ I enjoy getting hardware and software to work together. I build IoT prototypes, 
 | 🔐 **Smart Locker** | An RFID-based locker prototype with an Arduino UNO R4 WiFi and a Node-RED dashboard for checking locker status and controlling it remotely via MQTT. |
 | ⚡ **Smart Steel Factory** | A simulated industrial energy monitoring system that collects electrical readings through a Raspberry Pi gateway using Modbus. |
 | 📦 **Box Damage Classification** | A computer vision system that uses OpenCV and contour analysis to distinguish damaged boxes from undamaged ones. |
-| 💊 **Medication Reminder via LINE** | A full-stack web app for managing medication schedules and sending reminders through LINE Official Account. |
+| 💊 **Medication Reminder via LINE** | Designed the UI and database schema, built the React frontend and FastAPI backend, and integrated LINE reminders for medication schedules. |
 
 ### 🛠️ Tools I Use
 
