@@ -16,12 +16,11 @@ I enjoy getting hardware and software to work together. I build IoT prototypes, 
 
 ### 📌 Featured Projects
 
-| Project | What I built |
-| :--- | :--- |
-| 🔐 **Smart Locker** | An RFID-based locker prototype with an Arduino UNO R4 WiFi and a Node-RED dashboard for checking locker status and controlling it remotely via MQTT. |
-| ⚡ **Smart Steel Factory** | A simulated industrial energy monitoring system that collects electrical readings through a Raspberry Pi gateway using Modbus. |
-| 📦 **Box Damage Classification** | A computer vision system that uses OpenCV and contour analysis to distinguish damaged boxes from undamaged ones. |
-| 💊 **Medication Reminder via LINE** | Designed the UI and database schema, built the React frontend and FastAPI backend, and integrated LINE reminders for medication schedules. |
+| Project | What I did |
+| --- | --- |
+| 🔐 [Smart Locker](https://github.com/Tsg45/smart-locker) | Designed the control circuit, integrated RFID and MQTT on an Arduino UNO R4 WiFi, and built a Node-RED dashboard for remote monitoring and control. |
+| 🧪 [Sensor Calibration](https://github.com/Tsg45/sensor-calibration) | Calibrated current and voltage readings and tested temperature, gas, and heart rate sensors, as well as load cells. |
+| 🐭 [Mouse Protein Classification with PCA](https://github.com/Tsg45/mice-protein-classification-pca) | Used PCA to reduce the number of features and compared SVM and Random Forest using grouped cross-validation. SVM achieved 68.2% accuracy. |
 
 ### 🛠️ Tools I Use
 
