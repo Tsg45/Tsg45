@@ -31,4 +31,4 @@ I enjoy getting hardware and software to work together. I build IoT prototypes, 
 
 ### 📫 Contact
 
-[Email me](mailto:nateebunchory@gmail.com)
+`nateebunchory@gmail.com`
